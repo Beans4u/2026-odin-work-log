@@ -54,20 +54,24 @@ Architected complex, responsive UI patterns including navigation bars, modals, a
 - [Flex Layout](https://github.com/Beans4u/odin-css-exercises/tree/main/foundations/flex/06-flex-layout)
 - [Flex Layout 2](https://github.com/Beans4u/odin-css-exercises/tree/main/foundations/flex/07-flex-layout-2)
 
+#### Project
+
+- [odin-landing-page](https://github.com/Beans4u/odin-landing-page)
 
 ### Lessons Learned
 
 - Use atomic commits with clear messages.
+- CSS and HTML architecture best practices and utility-driven architecture.
 - Prefer class-based selectors over positional selectors for maintainability.
 - Keep CSS specificity low; rely on cascade instead of overrides.
 - Treat layout as a system: content flow → box model → flex behavior.
 - Define flex container properties explicitly to avoid default surprises.
 - Separate structure (HTML) from presentation (CSS).
 - Debug layout with small, isolated changes.
+- Flexbox and image height chains.
 
 ### Notes
 
 - Each linked directory contains the prompt and my implementation.
 - Work is organized by curriculum topic order.
 - This file is maintained as a running completion record.
-- Larger portfolio projects will be presented in separate repositories.
