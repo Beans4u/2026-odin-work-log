@@ -75,3 +75,30 @@ Architected complex, responsive UI patterns including navigation bars, modals, a
 - Each linked directory contains the prompt and my implementation.
 - Work is organized by curriculum topic order.
 - This file is maintained as a running completion record.
+
+## **JavaScript Exercise Repository Fork**
+
+Fork: [odin-javascript-exercises (Foundations folder)](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations)  
+
+### Intro to JavaScript
+Focus on core JavaScript fundamentals and program logic used to drive user and page interactions.
+
+### Exercises
+Unit-test-driven JavaScript exercises validated with Jest. Each exercise requires implementing functions to pass staged test suites, practicing TDD workflow, debugging, and incremental test activation.
+
+
+01. [helloWorld](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/01_helloWorld)
+
+
+#### Key JavaScript Skills Demonstrated
+
+- Writing modular, testable functions
+- Implementing incremental TDD workflow
+- Debugging with VS Code and Jest
+- Understanding function scope, returns, and basic program logic
+
+#### Notes
+
+- Each linked directory contains the exercise/project prompt and my implementation.
+- Work is organized by curriculum topic order.
+- This file serves as a running completion and portfolio-ready record.
