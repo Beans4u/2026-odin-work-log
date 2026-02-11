@@ -88,7 +88,10 @@ Unit-test-driven JavaScript exercises validated with Jest. Each exercise require
 
 
 01. [helloWorld](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/01_helloWorld)
-
+02. [addNumbers](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/02_addNumbers)
+03. [numberChecker](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/03_numberChecker)
+04. [mathEquations](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/04_mathEquations)
+05. [joinStrings](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/05_joinStrings)
 
 #### Key JavaScript Skills Demonstrated
 
