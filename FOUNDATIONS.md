@@ -4,16 +4,18 @@ Centralized index of my completed work from The Odin Project Foundations curricu
 
 ## **HTML Foundations**
 
- ### Project — Odin Recipes (HTML Basics) 
-A multi-page site focusing on semantic HTML tags, relative paths, and foundational structure.  
+### Project — Odin Recipes (HTML Basics)
+
+A multi-page site focusing on semantic HTML tags, relative paths, and foundational structure.
 
 - [Odin Recipes](https://github.com/Beans4u/odin-recipes)
 
 ## **CSS Exercise Repository Fork**
 
-Fork: [odin-css-exercises](https://github.com/Beans4u/odin-css-exercises)  
+Fork: [odin-css-exercises](https://github.com/Beans4u/odin-css-exercises)
 
 ### Intro to CSS
+
 Mastered CSS architecture and specificity logic. Focus included implementing DRY (Don't Repeat Yourself) code through selector grouping, chaining, and descendant combinators to create targeted, maintainable stylesheets.
 
 #### Exercises
@@ -23,8 +25,9 @@ Mastered CSS architecture and specificity logic. Focus included implementing DRY
 - [Grouping Selectors](https://github.com/Beans4u/odin-css-exercises/tree/main/foundations/intro-to-css/03-grouping-selectors)
 - [Chaining Selectors](https://github.com/Beans4u/odin-css-exercises/tree/main/foundations/intro-to-css/04-chaining-selectors)
 - [Descendant Combinator](https://github.com/Beans4u/odin-css-exercises/tree/main/foundations/intro-to-css/05-descendant-combinator)
- 
- ### Block and Inline 
+
+### Block and Inline
+
 Deep-dive into the CSS Box Model. Specialized in precise spatial layout using margin and padding to control element relationships, ensuring pixel-perfect alignment and structural integrity across UI components.
 
 #### Exercises
@@ -32,15 +35,16 @@ Deep-dive into the CSS Box Model. Specialized in precise spatial layout using ma
 - [Margin & Padding 1](https://github.com/Beans4u/odin-css-exercises/tree/main/foundations/block-and-inline/01-margin-and-padding-1)
 - [Margin & Padding 2](https://github.com/Beans4u/odin-css-exercises/tree/main/foundations/block-and-inline/02-margin-and-padding-2)
 
- ### Cascade 
+### Cascade
+
 Advanced debugging of style inheritance and specificity conflicts. Developed the ability to resolve competing rules through source-order optimization and selector hierarchy without altering existing HTML structure.
 
 #### Exercises
 
 - [Cascade Fix](https://github.com/Beans4u/odin-css-exercises/tree/main/foundations/cascade/01-cascade-fix)
 
+### Flex
 
- ### Flex 
 Architected complex, responsive UI patterns including navigation bars, modals, and "Holy Grail" page structures. Expertise includes managing nested flex contexts, axis alignment, and building fluid layouts.
 
 #### Exercises
@@ -78,20 +82,25 @@ Architected complex, responsive UI patterns including navigation bars, modals, a
 
 ## **JavaScript Exercise Repository Fork**
 
-Fork: [odin-javascript-exercises (Foundations folder)](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations)  
+Fork: [odin-javascript-exercises (Foundations folder)](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations)
 
 ### Intro to JavaScript
+
 Focus on core JavaScript fundamentals and program logic used to drive user and page interactions.
 
 ### Exercises
+
 Unit-test-driven JavaScript exercises validated with Jest. Each exercise requires implementing functions to pass staged test suites, practicing TDD workflow, debugging, and incremental test activation.
 
-
-01. [helloWorld](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/01_helloWorld)
-02. [addNumbers](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/02_addNumbers)
-03. [numberChecker](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/03_numberChecker)
-04. [mathEquations](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/04_mathEquations)
-05. [joinStrings](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/05_joinStrings)
+1.  [helloWorld](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/01_helloWorld)
+2.  [addNumbers](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/02_addNumbers)
+3.  [numberChecker](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/03_numberChecker)
+4.  [mathEquations](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/04_mathEquations)
+5.  [joinStrings](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/05_joinStrings)
+6.  [repeatString](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/06_repeatString)
+7.  [reverseString](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/07_reverseString)
+8.  [removeFromArray](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/08_removeFromArray)
+9.  [sumAll](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/09_sumAll)
 
 #### Key JavaScript Skills Demonstrated
 
@@ -105,3 +114,13 @@ Unit-test-driven JavaScript exercises validated with Jest. Each exercise require
 - Each linked directory contains the exercise/project prompt and my implementation.
 - Work is organized by curriculum topic order.
 - This file serves as a running completion and portfolio-ready record.
+
+### Proejct: Rock Paper Scissors
+
+**Part 1: Console version:**  
+Built to demonstrate core programming skills: function design, control flow, input handling, and state tracking.
+
+**Part 2: UI version:**  
+This project demonstrates the transition from a console-based application to an interactive browser experience, focusing on DOM manipulation, event handling, and structuring JavaScript for UI-driven applications.
+
+[Repo](https://github.com/Beans4u/odin-JS-rockPaperScissors/tree/main) | [Live preview](https://beans4u.github.io/odin-JS-rockPaperScissors/)
