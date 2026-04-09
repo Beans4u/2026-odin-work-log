@@ -115,7 +115,7 @@ Unit-test-driven JavaScript exercises validated with Jest. Each exercise require
 - Work is organized by curriculum topic order.
 - This file serves as a running completion and portfolio-ready record.
 
-### Proejct: Rock Paper Scissors
+### Project: Rock Paper Scissors
 
 **Part 1: Console version:**  
 Built to demonstrate core programming skills: function design, control flow, input handling, and state tracking.
@@ -124,3 +124,16 @@ Built to demonstrate core programming skills: function design, control flow, inp
 This project demonstrates the transition from a console-based application to an interactive browser experience, focusing on DOM manipulation, event handling, and structuring JavaScript for UI-driven applications.
 
 [Repo](https://github.com/Beans4u/odin-JS-rockPaperScissors/tree/main) | [Live preview](https://beans4u.github.io/odin-JS-rockPaperScissors/)
+
+### Project: Etch-a-Sketch
+
+A browser-based Etch-a-Sketch app built with vanilla JavaScript, featuring dynamic grid generation, hover-based drawing, and resizable layouts (via "screen resolution" and "pixel" divs). Focuses on DOM manipulation, event delegation, and managing interactive UI state.
+
+**This project emphasizes:**
+
+- Efficient DOM updates at scale (hundreds to thousands of nodes)
+- Event delegation over per-element listeners
+- Managing UI state (color mode, opacity, resolution)
+- Translating user input into dynamic layout changes
+
+[Repo](https://github.com/Beans4u/odin-JS-etch-a-sketch) | [Live preview](https://beans4u.github.io/odin-JS-etch-a-sketch/)
