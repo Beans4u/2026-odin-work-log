@@ -101,6 +101,13 @@ Unit-test-driven JavaScript exercises validated with Jest. Each exercise require
 7.  [reverseString](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/07_reverseString)
 8.  [removeFromArray](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/08_removeFromArray)
 9.  [sumAll](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/09_sumAll)
+10. [leapYears](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/10_leapYears)
+11. [tempConversion](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/11_tempConversion)
+12. [calculator](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/12_calculator)
+13. [palindromes](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/13_palindromes)
+14. [fibonacci](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/14_fibonacci)
+15. [getTheTitles](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/15_getTheTitles)
+16. [findTheOldest](https://github.com/Beans4u/odin-javascript-exercises/tree/main/foundations/16_findTheOldest)
 
 #### Key JavaScript Skills Demonstrated
 
